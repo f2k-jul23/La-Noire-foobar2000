@@ -1,4 +1,4 @@
-#  La Noire: 
+#  La Noire 
 **64-bit foobar2000 Theme**
 
 <p align="center">
