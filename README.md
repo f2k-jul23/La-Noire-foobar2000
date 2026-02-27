@@ -6,26 +6,26 @@
 
 
 <br><br><br>
-AI integration for real-time overview stories and credits for Albums and Artists revues. ( language tab integrated ).
-Albums filters with versions pressages and full details.
-Artist view with round covers. Full biography and overview 
-Aurora effect, Parallax effects. ( covers matching ).
-Smooth scrolling and professional animations.
-Labels Albums pages integrated. 
-Bokklet PDF visualization.
-Signal Path visualization ( Source , DSP , Output Source ). VBR and replaygain gain display by foo_outputinfo. 
-Scan Dynamic (DR) calcul view.
-Credits and Stories for Songs by Groq Engine AI ( interactive responses on each time ).
-Lyrics integrated. 
-Add to queue visualizations. 
-AI panel Activity ( requetes and tokens ). 
-Three playing panels ( one in full screen ). lyrics integrated and spinning Vinyl. 
-Radio panel with full integrated covers, genres, favorites. 
-  Radio sources: Radio-browser and Radio.net . 
-Playlist with full control ( selection : ctrl + A, shift+ leftclick ). 
-Discogs Full Discography and versions. 
-Auto Tags by Discogs. 
-DSP and Output Buttons. 
+AI integration for real-time overview stories and credits for Albums and Artists revues. ( language tab integrated ).<br>
+Albums filters with versions pressages and full details.<br>
+Artist view with round covers. Full biography and overview <br>
+Aurora effect, Parallax effects. ( covers matching ).<br>
+Smooth scrolling and professional animations.<br>
+Labels Albums pages integrated. <br>
+Bokklet PDF visualization.<br>
+Signal Path visualization ( Source , DSP , Output Source ). VBR and replaygain gain display by foo_outputinfo. <br>
+Scan Dynamic (DR) calcul view.<br>
+Credits and Stories for Songs by Groq Engine AI ( interactive responses on each time ).<br>
+Lyrics integrated. <br>
+Add to queue visualizations. <br>
+AI panel Activity ( requetes and tokens ). <br>
+Three playing panels ( one in full screen ). lyrics integrated and spinning Vinyl. <br>
+Radio panel with full integrated covers, genres, favorites. <br>
+  Radio sources: Radio-browser and Radio.net . <br>
+Playlist with full control ( selection : ctrl + A, shift+ leftclick ). <br>
+Discogs Full Discography and versions. <br>
+Auto Tags by Discogs. <br>
+DSP and Output Buttons. <br>
 
   
 
