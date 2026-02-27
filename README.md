@@ -39,7 +39,7 @@
 ## INSTALLATION INSTRUCTIONS
 
 * Install Foobar2000 Stable Version 64bits : https://www.foobar2000.org/windows
-* Download and extract Zip : .............. soon
+* Download and extract Zip : coming soon...
 ### IMPORTANT :<br>
   Choose where to install . this will delete your previous files and theme. So make a copy if necessary of your own files .
 * Double Click to install .
