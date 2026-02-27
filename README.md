@@ -41,7 +41,7 @@
 * Install Foobar2000 Stable Version 64bits : https://www.foobar2000.org/windows
 * Download and extract Zip : .............. soon
 * ## IMPORTANT : choose where to install . this will delete your previous files and theme. So make a copy if necessary of your own files .
-* Double Click to install .
+* Double Click to install .<br><br>
 🛠️ Configuration Guide
   To unlock the full potential of La Noire, you need to set up your free API keys:
   # Groq API Key (Musicology & AI Stories)
