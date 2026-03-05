@@ -40,6 +40,7 @@
 
 * Install Foobar2000 Stable Version 64bits : https://www.foobar2000.org/windows
 * Download : https://mega.nz/file/vcMx0KiB#LCL7HS8So_4lzpNKOWBpWLDhMlvflmugV79Dogq2M-8
+* VirusTotal Test : https://www.virustotal.com/gui/file/de31a829f13896585fb81a818d604881ef8bac8a0ff010e8af871ddc2bf59b25
 ### IMPORTANT :<br>
   Choose where to install . this will delete your previous files and theme. So make a copy if necessary of your own files .
 * Double Click to install .
